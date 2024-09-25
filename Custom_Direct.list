@@ -6,6 +6,7 @@
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 DOMAIN-SUFFIX,101465.xyz
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
+DOMAIN-SUFFIX,cn.bing.com
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
