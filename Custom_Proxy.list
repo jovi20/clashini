@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,stun.playstation.net
 # CDN
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,deeplx.missuo.ru
