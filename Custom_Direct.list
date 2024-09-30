@@ -5,6 +5,7 @@
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 DOMAIN-SUFFIX,101465.xyz
+DOMAIN-SUFFIX,kr.bld.us.kg
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 DOMAIN-SUFFIX,cn.bing.com
 # ImmortalWrt 软件仓库
