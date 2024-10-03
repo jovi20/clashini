@@ -5,7 +5,8 @@
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 DOMAIN-SUFFIX,101465.xyz
-IP-CIDR,13.251.244.135/32
+IP-CIDR,13.251.244.135/32,no-resolve
+IP-CIDR,47.76.66.155/32,no-resolve
 DOMAIN-SUFFIX,bld.us.kg
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 DOMAIN-SUFFIX,cn.bing.com
